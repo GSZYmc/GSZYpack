@@ -1,0 +1,12 @@
+[GSZYpack更新]
+v.1.0.2发布 #此版本为可选版本
+
+更新日志:
+#添加辅助工具
+   - Controlling , EnchantmentDescriptions（依赖bookshelf）
+# 优化游戏
+    - 更改常用快捷键（建议查看控制页面）
+# 技术性问题
+   - 客户端内自带java17(jre-17.0.2)
+
+TIPS：如果您觉得此客户端太大，可删除"源文件"文件夹

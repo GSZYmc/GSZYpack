@@ -1,0 +1,9 @@
+[GSZYpack更新]
+v.1.0.4发布 #本版本为紧急修复版本
+下载链接：https://pan.baidu.com/s/1MOvzS6ACcrQs9PVjev-dvA?pwd=GSZY
+
+更新日志:
+# 修复错误
+   - replay不兼容sodium，更换sodium文件为兼容性修复文件。
+
+TIPS：如果您觉得此客户端太大，可删除"源文件"文件夹

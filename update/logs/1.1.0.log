@@ -1,0 +1,15 @@
+[GSZYpack更新]
+v.1.1.0发布
+下载链接：https://github.com/GSZYmc/GSZYpack/releases
+          https://pan.baidu.com/s/1MOvzS6ACcrQs9PVjev-dvA?pwd=GSZY
+
+更新日志:
+# 优化游戏
+   - 添加4个优化工具
+          - armorchroma(Fabric重构版), Boat-Item-View, enhanced_attack_indicator, morechathistory
+   - 添加3个实用工具
+          - voicechat(插件自行下载), MouseTweaks, mousewheelie
+# 附加内容删除
+   - 从今天开始，某些材质包将不会放置在整合包内。
+
+TIPS：如果您觉得此客户端太大，可删除"源文件"文件夹；更新公告发布后大约5分钟~一天即可正常下载新版本。
